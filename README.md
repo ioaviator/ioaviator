@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Engineer | Analytics Engineer | Open to opportunities
 ---------------------------------------------------------------------------------
 
-* 🌍  I am based in Nigeria
 * 🖥️  See [My portfolio](https://ioaviator.github.io/)
 * ✉️  Contact me via [Email](mailto:iokingaviator@gmail.com)
 * 🤝  I am open to Data and Analytics Engineering roles, also open to collaborate on projects
