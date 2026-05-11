@@ -19,6 +19,6 @@ With experience across the data lifecycle, from ingestion and transformation to 
 
 In one of my projects, I built an automated data pipeline that integrated data from multiple sources, reducing manual reporting time by over 40%, helping analysts and business stakeholders access trusted insights much faster. 
 
-Alongside my technical work, I also mentor aspiring data professionals, which has strengthened my ability to communicate complex ideas clearly and collaborate effectively across both technical and business teams.
+Alongside my technical work, I also mentor/teach aspiring data professionals, which has strengthened my ability to communicate complex ideas clearly and collaborate effectively across both technical and business teams.
 
 I am open to opportunities to work on more technical, industry-focused data projects and to help improve how organisations use data for decision-making.
