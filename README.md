@@ -13,7 +13,7 @@ Data Engineer | Analytics Engineer | Open to opportunities
 
 ### About Me
 
-I am a Data and Analytics Engineer with 4 years of experience in the edutech and non-government sector, helping organisations make sense of their data by transforming scattered, disorganised data into reliable systems for reporting and decision-making.  
+I am a Data and Analytics Engineer, helping organisations make sense of their data by transforming scattered, disorganised data into reliable systems for reporting and decision-making.  
 
 With experience across the data lifecycle, from ingestion and transformation to deployment and monitoring, I deliver solutions that are efficient, reliable and future-ready.
 
