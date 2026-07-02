@@ -7,8 +7,8 @@ Data Engineer | Analytics Engineer | Open to opportunities
 * 🖥️  See [My portfolio](https://ioaviator.github.io/)
 * ✉️  Contact me via [Email](mailto:iokingaviator@gmail.com)
 * 🤝  I am open to Data and Analytics Engineering roles, also open to collaborate on projects
-* 📖  Hobbies: Sports, Gym, Video Games
-* 😊  Charisma: Team Work, Empathy, Good Sense of Humour
+* 📖  Hobbies: Leisure, Football, Gym, Video Games
+* 😊  Charisma: Team Work, Empathy, Humour
 
 
 ### About Me
@@ -19,7 +19,7 @@ With experience across the data lifecycle, from ingestion and transformation to 
 
 I work with Python, SQL, Shell Scripts, and use cloud platforms such as AWS, Azure and Google Cloud Platform (GCP). I am experienced in using tools such as Apache Airflow, DBT, Kafka, Docker, Snowflake and Terraform. I focus on data quality, automation, performance, and clean data architecture.
 
-In one of my projects, I built an automated data pipeline that integrated data from multiple sources, reducing manual reporting time by over 40%, helping analysts and business stakeholders access trusted insights much faster. 
+In one of my projects, I automated a data pipeline that integrated data from a data source, reducing manual reporting time by over 40%, helping analysts and business stakeholders access trusted insights much faster. 
 
 Alongside my technical work, I also teach/guide aspiring data professionals, which has strengthened my ability to communicate complex ideas clearly and collaborate effectively across both technical and business teams.
 
