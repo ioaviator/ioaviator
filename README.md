@@ -7,7 +7,7 @@ Data Engineer | Analytics Engineer |
 * 🖥️  See [My portfolio](https://ioaviator.github.io/)
 * ✉️  Contact me via [Email](mailto:iokingaviator@gmail.com)
 * 🤝  I am open to Data and Analytics Engineering roles, also open to collaborate on projects
-* 📖  Hobbies: Leisure, Football, Gym, Video Games
+* 📖  Hobbies: Football, Gym, Video Games
 
 
 ### About Me
